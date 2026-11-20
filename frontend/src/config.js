@@ -11,7 +11,7 @@ export const NEGOCIO = {
 // 🌐 Dirección del servidor (backend)
 //  - Mientras programas en tu computador usa el servidor local.
 //  - Cuando publiques el backend en Render, pega aquí su dirección (sin "/" al final).
-export const API_URL = import.meta.env.DEV ? 'http://localhost:3000' : 'https://PON-AQUI-TU-BACKEND.onrender.com';
+export const API_URL = import.meta.env.DEV ? 'http://localhost:3000' : 'https://zucafe-api.onrender.com';
 
 // 🛟 Catálogo de respaldo: se muestra si el servidor está dormido o apagado.
 // (Los precios reales los editas en el panel admin; estos solo son el plan B.)
