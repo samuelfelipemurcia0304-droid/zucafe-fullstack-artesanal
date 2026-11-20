@@ -2,7 +2,7 @@
 
 Aplicación web full stack del emprendimiento de café colombiano **Zucafé**: landing, catálogo, formulario de pedido, panel de administración con login y chatbot de atención.
 
-🌐 **Página publicada:** `https://TU-USUARIO.github.io/zucafe-fullstack/` ← *(escribe aquí tu enlace real)*
+🌐 **Página publicada:** https://samuelfelipemurcia0304-droid.github.io/zucafe-fullstack-artesanal/
 
 > Esta página de GitHub muestra el **código** del proyecto. La página web de verdad vive en el enlace de arriba (GitHub Pages).
 
